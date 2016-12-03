@@ -2,6 +2,8 @@
 #### Andrew Lovett-Barron
 A collection of books (and articles) that have helped me develop.
 
+If you have recommendations (and I want them!), please submit as issues or find me on twitter [@readywater](http://twitter.com/readywater)
+
 ## Design Practice
 - [_Dan Hill_, Dark Matter, Trojan Horses](http://amzn.to/2gQnkk8)
 - [_Heinz Von Foerster_, Understanding Understanding](http://amzn.to/2gQxuS2)
