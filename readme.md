@@ -1,6 +1,6 @@
 # Things I've Read and Learned From
 #### Andrew Lovett-Barron
-A collection of books (and articles) that have helped me develop.
+A collection of books that have helped me develop. Hopefully you might find something interesting in here!
 
 If you have recommendations (and I want them!), please submit as issues or find me on twitter [@readywater](http://twitter.com/readywater)
 
@@ -20,18 +20,19 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Joel Grus_, Data Science from Scratch](http://amzn.to/2gwKNU3)
 - [_Hastie, James, Witten, Tibshirani_, An Introduction to Statistical Learning](http://amzn.to/2h9Dp0R)
 - [_Daniel Shiffman_, Learning Processing](http://amzn.to/2h9y3CO)
-(More to come)
+- (More to come)
 
 ## Professional
-### US Digital Service/Pentagon (Basically everything)
+### 2016 US Digital Service/Pentagon (Basically everything)
 - [_Ori Brafman_, The Starfish and the Spider](http://amzn.to/2fRcomG)
 - [_James C Scott_, Seeing Like A State](http://amzn.to/2gXdOIy)
 - [_Paul Virilio_, The Administration of Fear](http://amzn.to/2gXadKG)
 - [_Aki Peritz+Eric Rosenbach_, Find, Fix, Finish](http://amzn.to/2gQrEzY)
 - [_Stanley McChrystal_, Team of Teams](http://amzn.to/2fR1flS)
 - [_CJ Chivers_, The Gun](http://amzn.to/2gQqR28)
+- [_GCHQ_, Boiling Frogs](https://github.com/gchq/BoilingFrogs)
 
-### IDEO (Principal Designer/Project Lead)
+### 2013 IDEO (Principal Designer/Project Lead)
 - [_Kevin Kelly_, What Technology Wants](http://amzn.to/2gx91k6)
 - [_Richard H. Thaler_, Nudge](http://amzn.to/2gQzsSo)
 - [_Jan Chipchase_, Hidden In Plain Sight](http://amzn.to/2fVf0ve)
@@ -42,8 +43,9 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Jake Knapp_, Sprint](http://amzn.to/2h484AV)
 - [_Don Norman_, Design of Everyday Things](http://amzn.to/2gQtkJR)
 - [_Peter Thiel_, Zero to One](http://amzn.to/2h47W4t)
+- [_Bruce Sterling_, Viridian Design Movement](http://viridiandesign.org/)
 
-### Relay (Owner)
+### 2012 Relay Studio (Owner)
 - [_William Zinsser_, On Writing Well](http://amzn.to/2fVdwkz)
 - [_Paola Antonelli_, Talk To Me](http://amzn.to/2gxcLCd)
 - [_Marc Stickdom_, Service Design Thinking](http://amzn.to/2gQsDAm)
@@ -52,14 +54,14 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_David Gray_, Game Storming](http://amzn.to/2gx5oe3)
 - [_Jason Fried_, Getting Real](http://amzn.to/2fVcZz1)
 
-### Normative
+### 2011 Normative (Interaction Designer)
 - [_Robert Coram_, Boyd](http://amzn.to/2gx6RB2)
 - [_Alexander Osterwalder_, Business Model Generation](http://amzn.to/2gQsaxU)
 - [_Alan Cooper_, About Face](http://amzn.to/2gQCOot)
 - [_Anthony Dunne+Fionna Raby_, Hertzian Tales](http://amzn.to/2fVcHYK)
 - [_Jonas Löwgren_, Thoughtful Interaction Design](http://amzn.to/2gQuyEM)
 
-## Books that have influence on Design
+## Books that influence my practice/that I reference or refer to often
 ### Fiction
 - [_William Gibson_, Zero History](http://amzn.to/2gxcE9E)
 - [_William Gibson_, Pattern Recognition](http://amzn.to/2fRblDl)
