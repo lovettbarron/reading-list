@@ -4,15 +4,28 @@ A collection of books that have helped me develop. Hopefully you might find some
 
 If you have recommendations (and I want them!), please submit as issues or find me on twitter [@readywater](http://twitter.com/readywater)
 
-## Design Practice
+## Design-y Books
+### Systems Design
 - [_Dan Hill_, Dark Matter, Trojan Horses](http://amzn.to/2gQnkk8)
 - [_Heinz Von Foerster_, Understanding Understanding](http://amzn.to/2gQxuS2)
 - [_Jane Fulton Suri_, Thoughtless Acts](http://amzn.to/2gXbVeO)
 - [_Donella H. Meadows_, Thinking In Systems: A Primer](http://amzn.to/2gxb6fU)
 - [_Bruce Sterling_, Shaping Things](http://amzn.to/2gQyaXk)
+
+### Visual Design
+- [_Kimberly Elm_, Typographic Systems in Design](http://amzn.to/2g3ejVj)
+- [_Robert Bringhurst_, The Elements of Typographic Style](http://amzn.to/2g3gok0)
+- [_Joseph Albers_, Interactions of Color](http://amzn.to/2h9N87C)
+- [_Michael Kroegers_, Paul Rand: Conversations with Students](http://amzn.to/2gX6flJ)
 - (More to come)
 
-## Code Practice
+### Software Design
+- [_Malcolm McCollough_, Digital Ground](http://amzn.to/2h9KsH1)
+- [_Malcolm McCollough_, Ambient Commons](http://amzn.to/2geB72X)
+- [_Dan Saffer_, Microinteractions](http://amzn.to/2h9Fmuq)
+- (More to come)
+
+## Code-y books
 - [_Gary Bradski_, Learning OpenCV 3](http://amzn.to/2gKivZp)
 - [_Andrew Koenig_, Accelerated C++](http://amzn.to/2g35Kda)
 - [_Douglas Crockford_, Javascript: The Good Parts](http://amzn.to/2g4iFH7)
@@ -22,8 +35,8 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Daniel Shiffman_, Learning Processing](http://amzn.to/2h9y3CO)
 - (More to come)
 
-## Professional
-### 2016 US Digital Service/Pentagon (Basically everything)
+## Books that have helped me
+### As a designer at the Pentagon
 - [_Ori Brafman_, The Starfish and the Spider](http://amzn.to/2fRcomG)
 - [_James C Scott_, Seeing Like A State](http://amzn.to/2gXdOIy)
 - [_Paul Virilio_, The Administration of Fear](http://amzn.to/2gXadKG)
@@ -32,7 +45,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_CJ Chivers_, The Gun](http://amzn.to/2gQqR28)
 - [_GCHQ_, Boiling Frogs](https://github.com/gchq/BoilingFrogs)
 
-### 2013 IDEO (Principal Designer/Project Lead)
+### As a design project leader at IDEO
 - [_Kevin Kelly_, What Technology Wants](http://amzn.to/2gx91k6)
 - [_Richard H. Thaler_, Nudge](http://amzn.to/2gQzsSo)
 - [_Jan Chipchase_, Hidden In Plain Sight](http://amzn.to/2fVf0ve)
@@ -45,7 +58,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Peter Thiel_, Zero to One](http://amzn.to/2h47W4t)
 - [_Bruce Sterling_, Viridian Design Movement](http://viridiandesign.org/)
 
-### 2012 Relay Studio (Owner)
+### As a business owner
 - [_William Zinsser_, On Writing Well](http://amzn.to/2fVdwkz)
 - [_Paola Antonelli_, Talk To Me](http://amzn.to/2gxcLCd)
 - [_Marc Stickdom_, Service Design Thinking](http://amzn.to/2gQsDAm)
@@ -54,14 +67,14 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_David Gray_, Game Storming](http://amzn.to/2gx5oe3)
 - [_Jason Fried_, Getting Real](http://amzn.to/2fVcZz1)
 
-### 2011 Normative (Interaction Designer)
+### As a junior designer
 - [_Robert Coram_, Boyd](http://amzn.to/2gx6RB2)
 - [_Alexander Osterwalder_, Business Model Generation](http://amzn.to/2gQsaxU)
 - [_Alan Cooper_, About Face](http://amzn.to/2gQCOot)
 - [_Anthony Dunne+Fionna Raby_, Hertzian Tales](http://amzn.to/2fVcHYK)
 - [_Jonas Löwgren_, Thoughtful Interaction Design](http://amzn.to/2gQuyEM)
 
-## Books that influence my practice/that I reference or refer to often
+## Books that have just generally influenced me
 ### Fiction
 - [_William Gibson_, Zero History](http://amzn.to/2gxcE9E)
 - [_William Gibson_, Pattern Recognition](http://amzn.to/2fRblDl)
