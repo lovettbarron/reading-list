@@ -84,6 +84,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Frank Herbert_, Dune](http://amzn.to/2gXl4nH)
 - [_Charlie Stross_, Accelerando](http://amzn.to/2gx5RNb)
 - [_China Miéville_, The City and The City](http://amzn.to/2fVegWP)
+- [_Terry Pratchett_, Absolutely Every Discworld Book](http://amzn.to/2g3lD3v)
 
 ### Non Fiction
 - [_Italo Calvino_, Invisible Cities](http://amzn.to/2gXknuD)
