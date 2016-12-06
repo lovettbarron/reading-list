@@ -4,6 +4,8 @@ A collection of books that have helped me develop. Hopefully you might find some
 
 If you have recommendations (and I want them!), please submit as issues or find me on twitter [@readywater](http://twitter.com/readywater)
 
+*_All of these lists are incomplete_*
+
 ## Design-y Books
 ### Systems Design
 - [_Dan Hill_, Dark Matter, Trojan Horses](http://amzn.to/2gQnkk8)
@@ -43,6 +45,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Aki Peritz+Eric Rosenbach_, Find, Fix, Finish](http://amzn.to/2gQrEzY)
 - [_Stanley McChrystal_, Team of Teams](http://amzn.to/2fR1flS)
 - [_CJ Chivers_, The Gun](http://amzn.to/2gQqR28)
+- [_Eric Schlosser_, Command and Control](http://amzn.to/2h1ja9t)
 - [_GCHQ_, Boiling Frogs](https://github.com/gchq/BoilingFrogs)
 
 ### As a design project leader at IDEO
