@@ -13,7 +13,14 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - (More to come)
 
 ## Code Practice
-- (More to come)
+- [_Gary Bradski_, Learning OpenCV 3](http://amzn.to/2gKivZp)
+- [_Andrew Koenig_, Accelerated C++](http://amzn.to/2g35Kda)
+- [_Douglas Crockford_, Javascript: The Good Parts](http://amzn.to/2g4iFH7)
+- [_Wes McKinney_, Python for Data Analysis](http://amzn.to/2gX16KD)
+- [_Joel Grus_, Data Science from Scratch](http://amzn.to/2gwKNU3)
+- [_Hastie, James, Witten, Tibshirani_, An Introduction to Statistical Learning](http://amzn.to/2h9Dp0R)
+- [_Daniel Shiffman_, Learning Processing](http://amzn.to/2h9y3CO)
+(More to come)
 
 ## Professional
 ### US Digital Service/Pentagon (Basically everything)
@@ -68,9 +75,10 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Dennis DeSantis_, Making Music](http://amzn.to/2gQIbDY)
 - [_David Byrne_, How Music Works](http://amzn.to/2fVf0ve)
 - [_John Napier_, Hands](http://amzn.to/2gQy5Dh)
-- [Ta-Nehisi Coates_, Between the World and Me](http://amzn.to/2fVb65i)
+- [_Ta-Nehisi Coates_, Between the World and Me](http://amzn.to/2fVb65i)
 - [_William Rosen_, The Most Powerful Invention in the World](http://amzn.to/2gXgje3)
 - [_Stewart Brand_, How Buildings Learn](http://amzn.to/2fVgZj0)
 - [_Hiawatha Bray_, You Are Here](http://amzn.to/2gxdiUC)
 - [_Marc Levinson_, The Box](http://amzn.to/2gx8df5)
+- [_David Gordon Wilson_, Bicycle Science](http://amzn.to/2h9FmKD)
 - [_John Robb_, Brave New War](http://amzn.to/2gxeJTd)
