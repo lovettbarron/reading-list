@@ -1,5 +1,5 @@
 # Things I've Read and Learned From
-#### [Andrew Lovett-Barron (andrewlb.com)](http://andrewlb.com)
+#### Andrew Lovett-Barron [(andrewlb.com)](http://andrewlb.com)
 A collection of books that have helped me develop. Hopefully you might find something interesting in here!
 
 If you have recommendations (and I want them!), please submit as issues or find me on twitter [@readywater](http://twitter.com/readywater)
