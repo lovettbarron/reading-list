@@ -1,10 +1,14 @@
 # Things I've Read and Learned From
-#### Andrew Lovett-Barron
+#### [Andrew Lovett-Barron (andrewlb.com)](http://andrewlb.com)
 A collection of books that have helped me develop. Hopefully you might find something interesting in here!
 
 If you have recommendations (and I want them!), please submit as issues or find me on twitter [@readywater](http://twitter.com/readywater)
 
 *_All of these lists are incomplete_*
+
+## Personal Research Projects (Separate Bibliographies)
+- [Design and Defense](https://github.com/readywater/design-and-defense)
+- [Decay of Digital Things](http://decay.io)
 
 ## Design-y Books
 ### Systems Design
@@ -35,7 +39,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Joel Grus_, Data Science from Scratch](http://amzn.to/2gwKNU3)
 - [_Hastie, James, Witten, Tibshirani_, An Introduction to Statistical Learning](http://amzn.to/2h9Dp0R)
 - [_Daniel Shiffman_, Learning Processing](http://amzn.to/2h9y3CO)
-- (More to come)
+- [_Marian Petre+André van der Hoek_,Software Design Decoded](https://mitpress.mit.edu/books/software-design-decoded-0)
 
 ## Books that have helped me
 ### As a designer at the Pentagon
@@ -47,6 +51,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_CJ Chivers_, The Gun](http://amzn.to/2gQqR28)
 - [_Eric Schlosser_, Command and Control](http://amzn.to/2h1ja9t)
 - [_GCHQ_, Boiling Frogs](https://github.com/gchq/BoilingFrogs)
+- [_MOMA_,Design and Violence](http://designandviolence.moma.org/design-and-violence-the-book/)
 
 ### As a design project leader at IDEO
 - [_Kevin Kelly_, What Technology Wants](http://amzn.to/2gx91k6)
