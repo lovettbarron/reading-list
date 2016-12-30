@@ -102,6 +102,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Ta-Nehisi Coates_, Between the World and Me](http://amzn.to/2fVb65i)
 - [_William Rosen_, The Most Powerful Invention in the World](http://amzn.to/2gXgje3)
 - [_Stewart Brand_, How Buildings Learn](http://amzn.to/2fVgZj0)
+- [_Thucydidies_, The History of the Peloponnesian War](https://www.amazon.com/Landmark-Thucydides-Comprehensive-Guide-Peloponnesian/dp/0684827905)
 - [_Hiawatha Bray_, You Are Here](http://amzn.to/2gxdiUC)
 - [_Marc Levinson_, The Box](http://amzn.to/2gx8df5)
 - [_David Gordon Wilson_, Bicycle Science](http://amzn.to/2h9FmKD)
