@@ -44,6 +44,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 ## Books that have helped me
 ### As a designer at the Pentagon
 - [_Ori Brafman_, The Starfish and the Spider](http://amzn.to/2fRcomG)
+- [_Kai Bird_, American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](http://a.co/1bFvJP7)
 - [_James C Scott_, Seeing Like A State](http://amzn.to/2gXdOIy)
 - [_Paul Virilio_, The Administration of Fear](http://amzn.to/2gXadKG)
 - [_Aki Peritz+Eric Rosenbach_, Find, Fix, Finish](http://amzn.to/2gQrEzY)
