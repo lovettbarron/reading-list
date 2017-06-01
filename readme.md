@@ -25,6 +25,14 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Michael Kroegers_, Paul Rand: Conversations with Students](http://amzn.to/2gX6flJ)
 - (More to come)
 
+### Management
+- [_Camille Fournier_, The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [_Jason Fried_, Getting Real](https://www.amazon.com/gp/product/0578012812)
+- [_Rian van der Merwe_, Making It Right: Product Management For A Startup World](https://www.amazon.com/gp/product/1502322404)
+- [_Arnie Lund_, User Experience Management](https://www.amazon.com/gp/product/0123854962)
+- [_Joel Spolsky_, Joel On Software](https://www.amazon.com/gp/product/1590593898)
+- [_Roger Fisher_, Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757)
+
 ### Software Design
 - [_Malcolm McCollough_, Digital Ground](http://amzn.to/2h9KsH1)
 - [_Malcolm McCollough_, Ambient Commons](http://amzn.to/2geB72X)
@@ -42,6 +50,9 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Marian Petre+André van der Hoek_,Software Design Decoded](https://mitpress.mit.edu/books/software-design-decoded-0)
 
 ## Books that have helped me
+### As a fellow at New America
+- TBD
+
 ### As a designer at the Pentagon
 - [_Ori Brafman_, The Starfish and the Spider](http://amzn.to/2fRcomG)
 - [_Kai Bird_, American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer](http://a.co/1bFvJP7)
