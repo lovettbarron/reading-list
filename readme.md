@@ -54,7 +54,7 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Intercom_, Intercom on Starting Up](https://www.intercom.com/books/starting-up)
 - [_Roger Martin, Sally Osberg_, Getting Beyond Better:How Social Entrepreneurship Works](https://www.amazon.com/Getting-Beyond-Better-Social-Entrepreneurship/dp/1633690687)
 - [_Brad Feld_, Venture Deals](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
-
+- [_Ken Stern_, With Charity For All](https://www.amazon.com/Charity-All-Charities-Failing-Better/dp/0307743810)
 
 ### As a designer at the Pentagon
 - [_Ori Brafman_, The Starfish and the Spider](http://amzn.to/2fRcomG)
