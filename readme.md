@@ -50,6 +50,15 @@ If you have recommendations (and I want them!), please submit as issues or find 
 - [_Marian Petre+André van der Hoek_,Software Design Decoded](https://mitpress.mit.edu/books/software-design-decoded-0)
 
 ## Books that have helped me
+### As a distance grad student
+- TODO
+
+### As a solo SaaS founder
+- TODO
+
+### As lead design mentor to a startup accelerator
+- TODO
+
 ### As a fellow at New America
 - [_Intercom_, Intercom on Starting Up](https://www.intercom.com/books/starting-up)
 - [_Roger Martin, Sally Osberg_, Getting Beyond Better:How Social Entrepreneurship Works](https://www.amazon.com/Getting-Beyond-Better-Social-Entrepreneurship/dp/1633690687)
